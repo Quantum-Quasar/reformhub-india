@@ -1,7 +1,5 @@
 # reformhub-india
 
-------
-
 Empowering Accountability in Law Enforcement
 
 AnonReport is an open-source GitHub project dedicated to fostering transparency and accountability within law enforcement. Our goal is to develop a user-friendly website and a comprehensive database of police officers, designed to help citizens make informed decisions about reporting crimes and seeking justice.
